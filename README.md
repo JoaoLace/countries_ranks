@@ -1,6 +1,6 @@
-# Country Rating System
+# Country Rating System with Ranking
 
-This program allows users to rate different countries based on various criteria and stores the ratings in a text file. It provides a simple command-line interface for inputting ratings for each country.
+This program allows users to rate different countries based on various criteria and stores the ratings in a text file. It provides a simple command-line interface for inputting ratings for each country and displays the ranking of countries based on their scores.
 
 ## Features
 
@@ -8,6 +8,7 @@ This program allows users to rate different countries based on various criteria 
 - Stores the ratings in a text file named `list.txt`.
 - Retrieves the names of countries from a predefined list.
 - Provides links to Wikipedia pages for each country for reference.
+- Generates and updates a ranking file named `ranking.txt` based on the scores given by users.
 
 ## How to Use
 
